@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 77e05974640843b49b67f09cb9ede3dd
+  productGUID: e6740252f0912d4469b79cbeb2ef7c75
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Salchipapa
+  productName: A&Y
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -838,14 +838,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Salchipapa
+  metroPackageName: A&Y
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Salchipapa
+  metroApplicationDescription: A&Y
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 7f7073c0-2dc4-4d15-914f-7111ebe8fd4c
+  cloudProjectId: e0a6c52a-a88a-4301-ab3e-d69ac33b9731
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Salchipapa
+  projectName: A&Y
   organizationId: leomaldonado12
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
